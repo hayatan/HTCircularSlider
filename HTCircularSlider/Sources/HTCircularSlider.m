@@ -81,6 +81,7 @@
     _handleImageView.contentMode = UIViewContentModeScaleToFill;
 
     [_handleView addSubview:_handleImageView];
+    self.handleImage = [UIImage imageNamed:@"handle.png"];
 
     /**
     * This tapGesture isn't used yet but will allow to jump to a specific location in the circle

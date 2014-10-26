@@ -22,7 +22,6 @@
 
     HTCircularSlider *subView = [[HTCircularSlider alloc] initWithFrame:frame];
     [self.view addSubview:subView];
-    subView.handleImage = [UIImage imageNamed:@"handle.png"];
     [subView addTarget:self action:@selector( onValueChange: ) forControlEvents:UIControlEventValueChanged ];
 
 }
