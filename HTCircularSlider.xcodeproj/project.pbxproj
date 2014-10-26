@@ -16,6 +16,7 @@
 		155C610B19FCD0B300939E84 /* HTCircularSliderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 155C610A19FCD0B300939E84 /* HTCircularSliderTests.m */; };
 		155C611A19FCD58500939E84 /* HTCircularSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 155C611919FCD58500939E84 /* HTCircularSlider.m */; };
 		155C611E19FD1BAC00939E84 /* handle.png in Resources */ = {isa = PBXBuildFile; fileRef = 155C611D19FD1BAC00939E84 /* handle.png */; };
+		155C615219FD47E300939E84 /* kenrokuen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 155C615119FD47E300939E84 /* kenrokuen.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		155C611819FCD58500939E84 /* HTCircularSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTCircularSlider.h; sourceTree = "<group>"; };
 		155C611919FCD58500939E84 /* HTCircularSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTCircularSlider.m; sourceTree = "<group>"; };
 		155C611D19FD1BAC00939E84 /* handle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = handle.png; sourceTree = "<group>"; };
+		155C615119FD47E300939E84 /* kenrokuen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kenrokuen.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 		155C60EE19FCD0B300939E84 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				155C615119FD47E300939E84 /* kenrokuen.jpg */,
 				155C60EF19FCD0B300939E84 /* Info.plist */,
 				155C60F019FCD0B300939E84 /* main.m */,
 			);
@@ -217,6 +220,7 @@
 			files = (
 				155C60FA19FCD0B300939E84 /* Main.storyboard in Resources */,
 				155C611E19FD1BAC00939E84 /* handle.png in Resources */,
+				155C615219FD47E300939E84 /* kenrokuen.jpg in Resources */,
 				155C60FF19FCD0B300939E84 /* LaunchScreen.xib in Resources */,
 				155C60FC19FCD0B300939E84 /* Images.xcassets in Resources */,
 			);
