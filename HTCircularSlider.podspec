@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "HTCircularSlider"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "CircularSlider with UIImage handle"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.homepage     = "https://github.com/hayatan/HTCircularSlider"
